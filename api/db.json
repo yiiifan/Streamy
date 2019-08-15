@@ -1,21 +1,22 @@
 {
   "streams": [
     {
-      "title": "unexpected behavior",
-      "description": "didnt respect that cool",
+      "title": "Stream 0",
+      "description": "Best Restuarant in Toronto!!!",
+      "userId": "105011920360114442721",
       "id": 7
     },
     {
       "title": "Stream 1",
-      "description": "just test lasefss",
+      "description": "Hey Let's go diving !!!!",
       "userId": "105011920360115942721",
-      "id": 8
+      "id": 10
     },
     {
-      "title": "Sunday",
-      "description": "allala",
+      "title": "Stream 2",
+      "description": "Online ukulele teaching, easy to start",
       "userId": "105011920360115942721",
-      "id": 9
+      "id": 11
     }
   ]
 }
