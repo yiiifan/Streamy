@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "unexpected behavior",
+      "description": "didnt respect that cool",
+      "id": 7
+    },
+    {
+      "title": "Stream 1",
+      "description": "just test lasefss",
+      "userId": "105011920360115942721",
+      "id": 8
+    },
+    {
+      "title": "Sunday",
+      "description": "allala",
+      "userId": "105011920360115942721",
+      "id": 9
+    }
+  ]
+}
